@@ -1,0 +1,4 @@
+status,status_key
+Active,1
+Pending,2
+Inactive,3
