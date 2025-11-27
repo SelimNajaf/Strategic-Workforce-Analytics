@@ -1,7 +1,7 @@
 # Strategic Workforce Analytics: Optimizing Cost & Performance
 
 **Project Status:** Completed  
-**Role:** Senior Data Analyst  
+**Role:** Junior Data Analyst  
 **Tools:** Python (Pandas, Matplotlib, Seaborn), Dimensional Modeling (Star Schema)
 
 ---
